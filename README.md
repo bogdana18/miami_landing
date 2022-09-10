@@ -1,4 +1,4 @@
-# Eco-cosmetics landing page
+# Miami landing page
 
 - [DEMO LINK](https://bogdana18.github.io/layout_miami/)
 - [Design layout](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
